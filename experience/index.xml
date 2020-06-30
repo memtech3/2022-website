@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Micah Shaw Guttman</title>
+    <link>http://micahguttman.com/experience/</link>
+    <description>Recent content in Experiences on Micah Shaw Guttman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jun 2020 16:16:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://micahguttman.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample_post2</title>
+      <link>http://micahguttman.com/experience/sample_post2/</link>
+      <pubDate>Mon, 29 Jun 2020 16:16:49 -0500</pubDate>
+      
+      <guid>http://micahguttman.com/experience/sample_post2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample_post</title>
+      <link>http://micahguttman.com/experience/sample_post/</link>
+      <pubDate>Mon, 29 Jun 2020 15:24:25 -0500</pubDate>
+      
+      <guid>http://micahguttman.com/experience/sample_post/</guid>
+      <description>test</description>
+    </item>
+    
+  </channel>
+</rss>
